@@ -1,0 +1,7 @@
+{
+  "name": "elPaisa",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
